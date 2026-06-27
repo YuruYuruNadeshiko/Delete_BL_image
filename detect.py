@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 
 # 1. 대화목록 영역 좌표 가져오기
-win = Desktop(backend="uia").window(title="은빈")
+win = Desktop(backend="uia").window(title="#여기다 이름 입력")
 win.set_focus()
 r = win.child_window(auto_id="100", control_type="Pane").rectangle()
 region = {"left": r.left, "top": r.top, "width": r.width(), "height": r.height()}
