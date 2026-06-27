@@ -11,7 +11,7 @@ for w in gw.getAllTitles():
         print(f"  [{w}]")
 
 # 2. 캡처할 창 제목 (위 목록에서 카톡 채팅방 제목을 골라 넣으세요)
-TARGET = "은빈"   # <- 여기를 실제 채팅방 제목으로 바꾸기
+TARGET = "#여기다 이릅 입력"   # <- 여기를 실제 채팅방 제목으로 바꾸기
 
 wins = gw.getWindowsWithTitle(TARGET)
 if not wins:
