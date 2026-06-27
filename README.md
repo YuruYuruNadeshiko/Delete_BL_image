@@ -20,6 +20,7 @@
 10. 오류가 발생할 수 있습니다. 오류가 발생하면 알려주세요
 
 응용 프로그램 다운로드👉https://drive.google.com/file/d/14ky3RSyxGOJb7iPCSzxcJoXT64WBouL1/view?usp=sharing
+
 아직 UI는 만들지 않았습니다... 조금만 기다려 주세요...
 
 # 제발 BL 사진좀 그만 보내라
